@@ -1,4 +1,5 @@
-T1w
-T2w
-DWI
+*.nii.gz
+*.bval
+*.bvec
+*.json
 non_imaging_data
